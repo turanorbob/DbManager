@@ -1,0 +1,11 @@
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ICSharpCode.TextEditor.dll
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DbManager.csproj.GenerateResource.Cache
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DbManager.FormMain.resources
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DbManager.FormConnect.resources
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DbManager.Properties.Resources.resources
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DbManager.exe
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\DbManager.pdb
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DbManager.exe
+F:\vs2010\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\DbManager.pdb
+F:\vs2010\DbManager\DbManager\obj\x86\Debug\DbManager.exe
+F:\vs2010\DbManager\DbManager\obj\x86\Debug\DbManager.pdb
